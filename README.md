@@ -6,3 +6,16 @@ Recently graduated from the bootcamp Data Science: Machine Learning Specializati
 This repository is containing a portfolio of data science and data analyst projects that I have completed and showcases my skills and experience in this field. My portfolio includes projects that demonstrate my ability to gather, process, and analyze large data sets, as well as my expertise in creating meaningful insights and visualizations.
 <br>
 <br>
+
+
+### 📑 Table of Content
+- [Python] (https:/
+  - [Principal Component Analysis (PCA) Breast Cancer Data with Python] (https://github.com/0299Imam/PCA)
+  - [Implementasi Metode Fuzzy Mamdani Pada Aplikasi Inventory Untuk Prediksi Pengadaan Barang di PT Pertamnina (PERSERO) Perkapalan) (https://github.com/0299Imam/sharing_tugas_fuzzy2019/blob/master/09011381722106_Imam%20Santoso_SK5U.ipynb)
+
+<br>
+[SQL]
+
+<br>
+
+[Tableau]

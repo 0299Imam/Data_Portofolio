@@ -21,6 +21,6 @@ This repository is containing a portfolio of data science and data analyst proje
 
 
 ## **Let's collaborate togerther !
--  [Linkedin] (https://www.linkedin.com/in/imam-santoso-1865111b4/)
--  [Tableau] (https://public.tableau.com/app/profile/imam.santoso)
+-  [LinkedIn](https://www.linkedin.com/in/imam-santoso-1865111b4/)
+-  [Tableau](https://public.tableau.com/app/profile/imam.santoso)
 -  imam0299@gmail.com

@@ -14,8 +14,13 @@ This repository is containing a portfolio of data science and data analyst proje
   - [Implementasi Metode Fuzzy Mamdani Pada Aplikasi Inventory Untuk Prediksi Pengadaan Barang di PT Pertamnina (PERSERO) Perkapalan) (https://github.com/0299Imam/sharing_tugas_fuzzy2019/blob/master/09011381722106_Imam%20Santoso_SK5U.ipynb)
 
 <br>
-[SQL]
+- [Tableau]
+  - Sales Report (https://public.tableau.com/app/profile/imam.santoso/viz/ReportSales/Dashboard1)
 
 <br>
 
-[Tableau]
+
+## **Let's collaborate togerther !
+-  [Linkedin] (https://www.linkedin.com/in/imam-santoso-1865111b4/)
+-  [Tableau] (https://public.tableau.com/app/profile/imam.santoso)
+-  imam0299@gmail.com

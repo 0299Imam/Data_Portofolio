@@ -18,6 +18,9 @@ This repository is containing a portfolio of data science and data analyst proje
   - Sales Report (https://public.tableau.com/app/profile/imam.santoso/viz/ReportSales/Dashboard1)
 
 <br>
+- [SQL]
+   
+<br>
 - [Dashboard] 
 
 ## **Let's collaborate togerther !

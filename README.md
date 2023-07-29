@@ -19,7 +19,7 @@ This repository is containing a portfolio of data science and data analyst proje
 
 <br>
 - [SQL]
-   
+   - Steve's Car Showroom (https://github.com/0299Imam/SQL_Portofolio)
 <br>
 - [Dashboard] 
 

@@ -17,15 +17,15 @@ Feel free to take a look around and [reach out](https://www.linkedin.com/in/imam
   - [Brain Cancer (Analysis Of Backpropagation Artificial Neural Network Method For Brain Cancer Cell Recognition)](https://github.com/0299Imam/Python-Portofolio/blob/main/Analysis%20Of%20Backpropagation%20Artificial%20Neural%20Network%20Method%20For%20Brain%20Cancer%20Cell%20Recognition.ipynb)
   - 
 
-<br>
-- [Tableau]
-  - Sales Report (https://public.tableau.com/app/profile/imam.santoso/viz/ReportSales/Dashboard1)
-  - 
+
+- [Tableau](https://github.com/0299Imam/Data_Portofolio)
+  - [Sales Report](https://public.tableau.com/app/profile/imam.santoso/viz/ReportSales/Dashboard1)
+  - [**Data Science Job Salaries**](https://public.tableau.com/app/profile/imam.santoso/viz/DataScienceJobSalaries_16912498175290/Dashboard1)
   
 
-<br>
-- [SQL] (https://github.com/0299Imam/Data_Portofolio)
-   - Steve's Car Showroom (https://github.com/0299Imam/SQL_Portofolio)
+
+- [SQL](https://github.com/0299Imam/Data_Portofolio)
+   - [Steve's Car Showroom](https://github.com/0299Imam/SQL_Portofolio)
    - 
 <br>
 - [Dashboard] 

@@ -30,7 +30,7 @@ Feel free to take a look around and [reach out](https://www.linkedin.com/in/imam
 <br>
 - [Dashboard] 
 
-## **Let's collaborate together!
+## **Let's collaborate together!**
 -  [LinkedIn](https://www.linkedin.com/in/imam-santoso-1865111b4/)
 -  [Tableau](https://public.tableau.com/app/profile/imam.santoso)
 -  imam0299@gmail.com

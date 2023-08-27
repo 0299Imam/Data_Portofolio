@@ -21,6 +21,7 @@ Feel free to take a look around and [reach out](https://www.linkedin.com/in/imam
 - [Tableau](https://github.com/0299Imam/Data_Portofolio)
   - [Sales Report](https://public.tableau.com/app/profile/imam.santoso/viz/ReportSales/Dashboard1)
   - [**Data Science Job Salaries**](https://public.tableau.com/app/profile/imam.santoso/viz/DataScienceJobSalaries_16912498175290/Dashboard1)
+  - [**Covid-19 Analytics Dashboard**](https://public.tableau.com/views/Covid-19AnalyticsDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
   
 
 

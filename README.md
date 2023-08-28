@@ -27,7 +27,7 @@ Feel free to take a look around and [reach out](https://www.linkedin.com/in/imam
 
 - [SQL](https://github.com/0299Imam/Data_Portofolio)
    - [Steve's Car Showroom](https://github.com/0299Imam/SQL_Portofolio)
-   - 
+   - [Airlines Data Analysis](https://github.com/0299Imam/SQL_Portofolio/blob/main/Airlines%20Data%20Analysis.sql)
 <br>
 - [Dashboard] 
 

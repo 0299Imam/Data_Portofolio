@@ -25,13 +25,13 @@ Feel free to take a look around and [reach out](https://www.linkedin.com/in/imam
   
 
 
-- [SQL](https://github.com/0299Imam/Data_Portofolio)
+- [SQL](https://github.com/0299Imam/Data_Portofolio)](https://github.com/0299Imam/SQL_Portofolio)
    - [Steve's Car Showroom](https://github.com/0299Imam/SQL_Portofolio)
    - [Airlines Data Analysis](https://github.com/0299Imam/SQL_Portofolio/blob/main/Airlines%20Data%20Analysis.sql)
    - [Thyroid Differentiation Data Analysis](https://github.com/0299Imam/SQL_Portofolio/blob/main/Thyroid%20Case%20Using%20SQL.sql)
 <br>
 
 ## **Let's collaborate together!**
--  [LinkedIn](https://www.linkedin.com/in/imam-santoso-1865111b4/)
+-  [LinkedIn](https://www.linkedin.com/in/imamsantoso10/)
 -  [Tableau](https://public.tableau.com/app/profile/imam.santoso)
 -  imam0299@gmail.com

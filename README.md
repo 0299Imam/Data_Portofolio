@@ -10,7 +10,7 @@ Feel free to take a look around and [reach out](https://www.linkedin.com/in/imam
 
 
 ### 📑 Table of Content
-- [Python](https://github.com/0299Imam/Data_Portofolio)
+- [Python](https://github.com/0299Imam/Python-Portofolio)
   - [Principal Component Analysis Breast Cancer Data with Python](https://github.com/0299Imam/PCA)
   - [Implementasi Metode Fuzzy Mamdani Pada Aplikasi Inventory Untuk Prediksi Pengadaan Barang di PT Pertamnina (PERSERO) Perkapalan)](https://github.com/0299Imam/sharing_tugas_fuzzy2019/blob/master/09011381722106_Imam%20Santoso_SK5U.ipynb)
   - [Age-Specific Disease Data Analysis: Understanding](https://github.com/0299Imam/Python-Portofolio)

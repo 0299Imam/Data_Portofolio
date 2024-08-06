@@ -1,7 +1,6 @@
 # **Project Portfolio**
 ### 👋 Introduction
-Hi! I'm Imam, an aspiring data analysis or data science professional who seeking to apply my knowledge to real-world experiences. 
-Recently graduated from the bootcamp Data Science: Machine Learning Specialization program at Rakamin Academy, in which I got to learn end-to-end data science processes.
+Hi! I'm Imam,  a proficient in Python, R, and SQL, with expertise in statistical modeling, machine learning, and visualization to transform complex data into actionable insights. Dedicated to supporting business decisions through data, with a strong background in data cleansing, analysis, and reporting. Recently earned the Google Data Analytics Professional Certificate, enhancing skills in data cleaning, analysis, and visualization using spreadsheets, SQL, R programming, and Tableau. Interested in leveraging data science techniques to drive innovation and solve complex business problems.nce processes.
 
 This repository is containing a portfolio of data science and data analyst projects that I have completed and showcases my skills and experience in this field. My portfolio includes projects that demonstrate my ability to gather, process, and analyze large data sets, as well as my expertise in creating meaningful insights and visualizations.
 Feel free to take a look around and [reach out](https://www.linkedin.com/in/imam-santoso-1865111b4/) if you have any feedback or questions.

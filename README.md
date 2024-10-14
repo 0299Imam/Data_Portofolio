@@ -29,7 +29,8 @@ Feel free to take a look around and [reach out](https://www.linkedin.com/in/imam
    - [Thyroid Differentiation Data Analysis](https://github.com/0299Imam/SQL_Portofolio/blob/main/Thyroid%20Case%20Using%20SQL.sql)
 
  - [R](https://github.com/0299Imam/R-Portfolio)
-   - [Banking Consumer Complaint Analysis](https://github.com/0299Imam/R-Portfolio/blob/main/banking_analysis.R) 
+   - [Banking Consumer Complaint Analysis](https://github.com/0299Imam/R-Portfolio/blob/main/banking_analysis.R)
+   - [Exploratory Data Analysis](https://github.com/0299Imam/R-Portfolio/blob/main/Exploratory%20Data%20Analysis%20using%20R.R)
 <br>
 
 ## **Let's collaborate together!**

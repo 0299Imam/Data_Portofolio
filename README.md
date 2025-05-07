@@ -14,7 +14,7 @@ Feel free to take a look around and [reach out](https://www.linkedin.com/in/imam
   - [Implementasi Metode Fuzzy Mamdani Pada Aplikasi Inventory Untuk Prediksi Pengadaan Barang di PT Pertamnina (PERSERO) Perkapalan)](https://github.com/0299Imam/sharing_tugas_fuzzy2019/blob/master/09011381722106_Imam%20Santoso_SK5U.ipynb)
   - [Age-Specific Disease Data Analysis: Understanding](https://github.com/0299Imam/Python-Portofolio)
   - [Brain Cancer (Analysis Of Backpropagation Artificial Neural Network Method For Brain Cancer Cell Recognition)](https://github.com/0299Imam/Python-Portofolio/blob/main/Analysis%20Of%20Backpropagation%20Artificial%20Neural%20Network%20Method%20For%20Brain%20Cancer%20Cell%20Recognition.ipynb)
-  - [Impact of Screen Time on Mental Health](https://github.com/0299Imam/Python-Portofolio/blob/main/Impact_of_Screen_Time_on_Mental_Health.ipynb)
+  - [Analyzing Impact of Screen Time on Mental Health](https://github.com/0299Imam/Python-Portofolio/blob/main/Impact_of_Screen_Time_on_Mental_Health.ipynb)
 
 
 - [Tableau](https://github.com/0299Imam/Data_Portofolio)
